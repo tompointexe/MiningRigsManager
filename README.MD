@@ -10,26 +10,6 @@ MiningRigsManager is a web application and daemon designed to streamline the man
 - **Remote Control**: Remotely control your mining rigs, including starting, stopping, or rebooting them, all from the convenience of your web browser, and without the need of 3rd party servers (that oftenly needs to be payed)
 - **Quality of Life Features**: Additional quality of life features that will be anounced later
 
-## Getting Started
-
-### Prerequisites
-
-- One or more Mining rigs
-- a Raspberry pi or equivalent to host the Coordinator (The web app that does all the magic)
-
-### Installation
-
-Those will come at a later date
-
-### Usage
-
-Just acces the machine hosting the coordinator software via it's local IPV4 or IPV6.
-For outside use, you might need to setup Port Forwarding
-
-### Configuration
-
-TODO
-
 ## Contributing
 
 TODO Once first version is up and ready
